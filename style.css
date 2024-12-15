@@ -1,0 +1,17 @@
+.container {
+	background-color: #0d0b26;
+	color: white;
+	border-radius: 50px;
+}
+
+body {
+	background-image: url(bg.jpg);
+}
+
+h1 {
+	text-align: center;
+}
+
+img {
+	width: 50px;
+}
